@@ -1,0 +1,20 @@
+h1 {
+    color: brown;
+    font-size: 48px;
+    text-align: center;
+    text-decoration: line-through;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#subjudul {
+    color: aqua;
+}
+
+table {
+    background-color: lightgray;
+}
+
+form {
+    border: solid 2px black;
+    border-radius: 5px;
+}
