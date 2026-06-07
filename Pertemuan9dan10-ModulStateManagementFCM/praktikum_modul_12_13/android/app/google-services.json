@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041168337224",
+    "project_id": "todoproviderfcm-jordan",
+    "storage_bucket": "todoproviderfcm-jordan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041168337224:android:41283a3e72e902ae3a4b7d",
+        "android_client_info": {
+          "package_name": "com.example.praktikum_modul_12_13"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDWCSh-M_DnNNttVRIA8yv1TdrcB1dp68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
