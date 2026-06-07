@@ -1,9 +1,7 @@
 # Tugas Praktik Modul 12 & 13 — State Management Provider & Firebase Cloud Messaging
 
 **Nama:** Jordan Angkawijaya  
-**NIM:** 2311102139  
-**Mata Kuliah:** Pemrograman Aplikasi Berbasis Mobile  
-**Program Studi:** Informatika — Telkom University Purwokerto
+**NIM:** 2311102139   
 
 ---
 
