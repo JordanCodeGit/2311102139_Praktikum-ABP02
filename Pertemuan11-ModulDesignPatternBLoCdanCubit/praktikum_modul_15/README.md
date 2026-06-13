@@ -1,12 +1,11 @@
-# TechShop — Flutter BLoC/Cubit State Management
+# JordanShop — Flutter BLoC/Cubit State Management
 
 <div align="center">
 
 **Praktikum Modul 15 — Modul Design Pattern BLoC dan Cubit pada Flutter**
 
-| | |
-|---|---|
 | **Nama** | Jordan Angkawijaya |
+|---|---|
 | **NIM** | 2311102139 |
 
 </div>
